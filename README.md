@@ -8,7 +8,7 @@ A complete **Coffee Shop Management System** with user authentication, table boo
     
 ## ✨ **Features**     
              
-### 👤 **User Features**
+### 👤 **User Features**    
 - ✅ User registration & login with JWT authentication
 - ✅ Browse coffee shop menu and table availability
 - ✅ Book tables with date/time selection
