@@ -6,7 +6,7 @@
 
 A complete **Coffee Shop Management System** with user authentication, table booking, and admin panel. Built for BCA students using modern web technologies.
     
-## ✨ **Features**
+## ✨ **Features**     
         
 ### 👤 **User Features**
 - ✅ User registration & login with JWT authentication
