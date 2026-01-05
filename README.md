@@ -1,7 +1,7 @@
 # **Coffee Shop Management System** ☕
 
 ![Project Banner](https://img.shields.io/badge/BCA-Project-blue) 
-![Tech Stack](https://img.shields.io/badge/Stack-MERN-orange) 
+![Tech Stack](https://img.shields.io/badge/Stack-MERN-orange)     
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 A complete **Coffee Shop Management System** with user authentication, table booking, and admin panel. Built for BCA students using modern web technologies.
